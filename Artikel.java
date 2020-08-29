@@ -113,7 +113,7 @@ public class Artikel {
     /**
      * Legt die Artikelbezeichnung fest
      * 
-     * Die .trim() - Methode entfernt die Whitespace-Zeichen vom eingegebenen String am Anfang und Emde, aber nicht in der Mitte.
+     * Die .trim() - Methode entfernt die Whitespace-Zeichen vom eingegebenen String am Anfang und Ende, aber nicht in der Mitte.
      *
      * Die .isEmpty() - Methode prüft, ob der eingebene String leer ist.
      * 
